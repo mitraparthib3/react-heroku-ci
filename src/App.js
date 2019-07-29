@@ -16,6 +16,7 @@ function App() {
         >
           Learn Heroku
         </a>
+        <pre>Warning! ⚠️ This App is enabled with auto deployment, any commits to master redoploys.</pre>
       </header>
     </div>
   );
